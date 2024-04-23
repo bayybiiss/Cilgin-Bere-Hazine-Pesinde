@@ -2065,6 +2065,10 @@ GameObject:
   - component: {fileID: 519420032}
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
+<<<<<<< HEAD
+=======
+  - component: {fileID: 519420030}
+>>>>>>> 727eeedd106837677778a927dac06826d9d8d99f
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -2080,6 +2084,21 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
+<<<<<<< HEAD
+=======
+--- !u!114 &519420030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4365c224f88895f4dba7d28f294e608b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> 727eeedd106837677778a927dac06826d9d8d99f
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -3778,6 +3797,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7283048385812857119, guid: a196dc99f83d1064d86b6a3630b6ec5a, type: 3}
   m_PrefabInstance: {fileID: 900572090}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1001 &903655187
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3864,6 +3884,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7593747347443356538, guid: b377f9690ead7674d83e19e77fa00e3e, type: 3}
   m_PrefabInstance: {fileID: 903655187}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> 727eeedd106837677778a927dac06826d9d8d99f
 --- !u!1 &918280235
 GameObject:
   m_ObjectHideFlags: 0
@@ -3970,6 +3992,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5112170741105509153, guid: 19a5cd9b1ebdf994587fa8f4cf5a5d47, type: 3}
   m_PrefabInstance: {fileID: 919026581}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1001 &925654383
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4056,6 +4079,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7993104064929089134, guid: e5a477b5ee4e92640bb02dcb7b92289a, type: 3}
   m_PrefabInstance: {fileID: 925654383}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> 727eeedd106837677778a927dac06826d9d8d99f
 --- !u!1001 &930017717
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4847,6 +4872,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5112170741105509153, guid: 19a5cd9b1ebdf994587fa8f4cf5a5d47, type: 3}
   m_PrefabInstance: {fileID: 1145083223}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1001 &1148826504
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4921,6 +4947,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7993104064929089134, guid: e5a477b5ee4e92640bb02dcb7b92289a, type: 3}
   m_PrefabInstance: {fileID: 1148826504}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> 727eeedd106837677778a927dac06826d9d8d99f
 --- !u!1001 &1156986063
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6344,6 +6372,7 @@ Transform:
   - {fileID: 310074009}
   m_Father: {fileID: 847584414}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1001 &1460508336
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6418,6 +6447,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7993104064929089134, guid: e5a477b5ee4e92640bb02dcb7b92289a, type: 3}
   m_PrefabInstance: {fileID: 1460508336}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> 727eeedd106837677778a927dac06826d9d8d99f
 --- !u!1001 &1480744508
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7459,6 +7490,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8088939549714845522, guid: c6292cb15d71af74799b2f5f289dac5c, type: 3}
   m_PrefabInstance: {fileID: 1607161745}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1001 &1615743970
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7622,6 +7654,8 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.75}
   m_EdgeRadius: 0
+=======
+>>>>>>> 727eeedd106837677778a927dac06826d9d8d99f
 --- !u!1001 &1616366234
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7851,11 +7885,14 @@ Transform:
   m_Children:
   - {fileID: 1374034425}
   - {fileID: 1586091689}
+<<<<<<< HEAD
   - {fileID: 1615743971}
   - {fileID: 903655188}
   - {fileID: 1460508337}
   - {fileID: 1148826505}
   - {fileID: 925654384}
+=======
+>>>>>>> 727eeedd106837677778a927dac06826d9d8d99f
   m_Father: {fileID: 712853453}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1647499762
