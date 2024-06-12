@@ -942,6 +942,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mystery Block (Coin)
       objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1210,6 +1214,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mystery Block (Coin)
       objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1379,6 +1387,10 @@ PrefabInstance:
     - target: {fileID: 4886051737246407020, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_Name
       value: Mystery Block (Coin)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1887,6 +1899,10 @@ PrefabInstance:
     - target: {fileID: 4886051737246407020, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_Name
       value: Mystery Block (Coin)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3258,6 +3274,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mystery Block (Coin)
       objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3319,6 +3339,10 @@ PrefabInstance:
     - target: {fileID: 4886051737246407020, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_Name
       value: Mystery Block (Coin)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3544,6 +3568,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 51471857}
     m_Modifications:
+    - target: {fileID: -8875275939861672296, guid: c6292cb15d71af74799b2f5f289dac5c, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 4312006726983890667, guid: 7dd40dfa7f3dfa848a411721f2f6d592, type: 3}
+    - target: {fileID: -8875275939861672296, guid: c6292cb15d71af74799b2f5f289dac5c, type: 3}
+      propertyPath: maxHits
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 1531779292793703509, guid: c6292cb15d71af74799b2f5f289dac5c, type: 3}
       propertyPath: m_Name
       value: Brick
@@ -4343,6 +4375,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 51471857}
     m_Modifications:
+    - target: {fileID: -8875275939861672296, guid: c6292cb15d71af74799b2f5f289dac5c, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 8760252109213371584, guid: 2d93318330627e9458dba27c6a0be7e0, type: 3}
+    - target: {fileID: -8875275939861672296, guid: c6292cb15d71af74799b2f5f289dac5c, type: 3}
+      propertyPath: maxHits
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1531779292793703509, guid: c6292cb15d71af74799b2f5f289dac5c, type: 3}
       propertyPath: m_Name
       value: Brick
@@ -5525,6 +5565,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 929133444}
     m_Modifications:
+    - target: {fileID: 3201845446639669931, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 7080598658404859592, guid: 18e6064af8845074fac556b3ad5f94a3, type: 3}
     - target: {fileID: 4744988845685711790, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_LocalPosition.x
       value: 78
@@ -5568,6 +5612,10 @@ PrefabInstance:
     - target: {fileID: 4886051737246407020, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_Name
       value: Mystery Block (Magic Mushroom)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6086,6 +6134,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 929133444}
     m_Modifications:
+    - target: {fileID: 3201845446639669931, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1240798272558219557, guid: 7193eed0fd65e6e48a4b64835e08eb2b, type: 3}
     - target: {fileID: 4744988845685711790, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_LocalPosition.x
       value: 64
@@ -6129,6 +6181,10 @@ PrefabInstance:
     - target: {fileID: 4886051737246407020, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_Name
       value: Mystery Block (Hidden)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6673,6 +6729,10 @@ PrefabInstance:
     - target: {fileID: 4886051737246407020, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_Name
       value: Mystery Block (Coin)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7330,6 +7390,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 929133444}
     m_Modifications:
+    - target: {fileID: 3201845446639669931, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 7080598658404859592, guid: 18e6064af8845074fac556b3ad5f94a3, type: 3}
     - target: {fileID: 4744988845685711790, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_LocalPosition.x
       value: 109
@@ -7373,6 +7437,10 @@ PrefabInstance:
     - target: {fileID: 4886051737246407020, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_Name
       value: Mystery Block (Magic Mushroom)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7656,6 +7724,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 929133444}
     m_Modifications:
+    - target: {fileID: 3201845446639669931, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 7080598658404859592, guid: 18e6064af8845074fac556b3ad5f94a3, type: 3}
     - target: {fileID: 4744988845685711790, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_LocalPosition.x
       value: 21
@@ -7699,6 +7771,10 @@ PrefabInstance:
     - target: {fileID: 4886051737246407020, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_Name
       value: Mystery Block (Magic Mushroom)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8023,6 +8099,10 @@ PrefabInstance:
     - target: {fileID: 4886051737246407020, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_Name
       value: Mystery Block (Coin)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8653,6 +8733,10 @@ PrefabInstance:
     - target: {fileID: 4886051737246407020, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_Name
       value: Mystery Block (Coin)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9460,6 +9544,10 @@ PrefabInstance:
     - target: {fileID: 4886051737246407020, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
       propertyPath: m_Name
       value: Mystery Block (Coin)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990790150587504358, guid: a16b7f414cc06f842967c0c774992b12, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

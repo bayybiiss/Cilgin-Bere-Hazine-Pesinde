@@ -1,6 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
+
 
 public class EntityMovement : MonoBehaviour
 {
@@ -18,9 +18,11 @@ public class EntityMovement : MonoBehaviour
 
     private void OnBecameVisible()
     {
-
+#if UNITY_EDITOR
+        enabled = !EditorApplication.isPaused;
+#else
         enabled = true;
-
+#endif
     }
 
     private void OnBecameInvisible()
@@ -56,13 +58,14 @@ public class EntityMovement : MonoBehaviour
             velocity.y = Mathf.Max(velocity.y, 0f);
         }
 
-        //if (direction.x > 0f)
-        //{
-        //    transform.localEulerAngles = new Vector3(0f, 180f, 0f);
-        //}
-        //else if (direction.x < 0f)
-        //{
-        //    transform.localEulerAngles = Vector3.zero;
-        //}
+        if (direction.x > 0f)
+        {
+            transform.localEulerAngles = new Vector3(0f, 180f, 0f);
+        }
+        else if (direction.x < 0f)
+        {
+            transform.localEulerAngles = Vector3.zero;
+        }
     }
+
 }

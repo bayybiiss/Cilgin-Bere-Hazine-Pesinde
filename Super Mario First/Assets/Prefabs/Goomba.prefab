@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 2233515598572317600}
   - component: {fileID: 7310521441705563572}
   - component: {fileID: 5904766684100623606}
-  - component: {fileID: 6686138044503920425}
   - component: {fileID: 749634685135362531}
+  - component: {fileID: 6686138044503920425}
   - component: {fileID: 7912464947280551969}
   m_Layer: 7
   m_Name: Goomba
@@ -151,20 +151,6 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.5
---- !u!114 &6686138044503920425
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2422494636839736377}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a223106365b807542aa44ea69fe707a0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 2
-  direction: {x: -1, y: 0}
 --- !u!114 &749634685135362531
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -178,6 +164,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flatSprite: {fileID: 21300000, guid: dceda839fbcc74441aef5f93f32bdc1a, type: 3}
+--- !u!114 &6686138044503920425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2422494636839736377}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a223106365b807542aa44ea69fe707a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
+  direction: {x: -1, y: 0}
 --- !u!114 &7912464947280551969
 MonoBehaviour:
   m_ObjectHideFlags: 0
